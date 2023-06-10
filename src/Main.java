@@ -171,7 +171,7 @@ public class Main {
         else if (three >one && three> two) {
             largestIs3=true;
         System.out.println("Three больше всех остальных");
-            System.out.println("Вторая попытка первого коммита");
+            System.out.println("Вторая попытка первого коммита ");
         }
 
         }
